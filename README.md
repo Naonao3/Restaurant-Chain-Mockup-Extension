@@ -28,7 +28,7 @@
 ```
 2. Access in Browser.
 
-## クラス図
+## クラス図及びUML図
 - Employee クラス（User クラスを拡張）
     - 職種（string）: 従業員の職種
     - 給与（float）: 従業員の給与
@@ -51,4 +51,6 @@
     - ドライブスルーの有無（bool）: チェーンのレストランにドライブスルーがあるかどうかを示します
     - 設立年（int）: レストランチェーンが設立された年
     - 親会社（string）: 親会社の名前（該当する場合）
+<img width="596" alt="UML図" src="https://github.com/Naonao3/Restaurant-Chain-Mockup-Extension/assets/97473345/38444bb2-5eae-445b-9afa-0421271c1160">
+
 
